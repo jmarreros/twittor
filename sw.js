@@ -8,7 +8,7 @@ const INMUTABLE_CACHE = 'inmutable_v1';
 // Lo que debería estar cargado lo antes posible, el APP_SHELL, lo indispensable de mi aplicación
 // lo que depende de mi
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
